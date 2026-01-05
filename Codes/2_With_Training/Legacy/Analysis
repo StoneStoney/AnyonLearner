@@ -1,0 +1,152 @@
+import torch
+import numpy as np
+import os
+import glob
+
+# config
+BASE_DIR = "." 
+DISCOVERED_DIR = os.path.join(BASE_DIR, "potential_categories")
+ANYONWIKI_DIR = os.path.join(BASE_DIR, "smallRankUnitaryFusionData") 
+
+torch.set_default_dtype(torch.float64)
+
+def calculate_d_from_N(N_tensor):
+    """
+    Recalculates Quantum Dimensions (d) from Fusion Rules (N).    """
+    try:
+        # 1. Sum over index 0 to get the Adjacency Matrix
+        M = torch.sum(N_tensor, dim=0).cpu().numpy()
+        
+        # 2. Frobenius-Perron: Largest Eigenvector
+        vals, vecs = np.linalg.eig(M)
+        max_idx = np.argmax(np.abs(vals))
+        d = np.abs(vecs[:, max_idx])
+        
+        # 3. Normalize (Vacuum d_0 = 1)
+        # Handle case where d[0] is close to zero (unlikely but possible in bad models)
+        if d[0] < 1e-10: 
+            return d 
+        d = d / d[0]
+        return d
+    except Exception as e:
+        return None
+
+def get_fingerprint(d_numpy):
+
+    if d_numpy is None: return None
+    # Round to 4 decimal places to handle float errors
+    d_rounded = np.round(d_numpy, 4)
+    return tuple(np.sort(d_rounded))
+
+def safe_match(candidate_fp, target_list):
+
+    if len(candidate_fp) != len(target_list):
+        return False
+    return np.allclose(candidate_fp, target_list, atol=1e-3)
+
+def load_reference_database():
+    print(f"Loading Reference Database from {ANYONWIKI_DIR}...", end="")
+    ref_db = {}
+    
+    if not os.path.exists(ANYONWIKI_DIR):
+        print(" [WARNING] Reference folder not found. Results will be labeled 'UNKNOWN'.")
+        return ref_db
+
+    for dirpath, _, filenames in os.walk(ANYONWIKI_DIR):
+        if "Nabc.txt" in filenames:
+            try:
+                data = np.loadtxt(os.path.join(dirpath, "Nabc.txt"), dtype=int)
+                if data.size > 0 and np.min(data[:, :3]) == 1: data[:, :3] -= 1
+                rank = int(np.max(data[:, :3])) + 1
+                N = torch.zeros((rank, rank, rank))
+                for r in data: N[int(r[0]), int(r[1]), int(r[2])] = r[3]
+                
+                d = calculate_d_from_N(N)
+                fp = get_fingerprint(d)
+                
+                name = os.path.basename(os.path.dirname(dirpath))
+                ref_db[fp] = name
+            except: pass
+            
+    print(f" Done. ({len(ref_db)} categories loaded)\n")
+    return ref_db
+
+def main():
+    
+    known_physics = load_reference_database()
+    
+    files = glob.glob(os.path.join(DISCOVERED_DIR, "*.pt"))
+    if not files:
+        print(f"No .pt files found in {DISCOVERED_DIR}")
+        return
+
+    print(f"Processing {len(files)} generated candidates...")
+    
+    unique_findings = {}
+
+    for f in files:
+        try:
+            data = torch.load(f, map_location='cpu', weights_only=False)
+            N = data['N']
+            
+            d = calculate_d_from_N(N)
+            fp = get_fingerprint(d)
+            
+            if fp is None: continue
+
+            # Group duplicates
+            if fp not in unique_findings:
+                unique_findings[fp] = {
+                    'count': 0,
+                    'file_example': os.path.basename(f),
+                    'd_vector': d
+                }
+            unique_findings[fp]['count'] += 1
+            
+        except Exception:
+            pass # 
+ 
+    print(f"\n{'='*60}")
+    print(f"{'='*60}")
+    print(f"Raw Models: {len(files)} | Unique Physical Phases: {len(unique_findings)}\n")
+
+    # Sort by complexity (Total Dimension)
+    sorted_findings = sorted(unique_findings.items(), key=lambda x: np.sum(x[1]['d_vector']**2))
+
+    for i, (fp, info) in enumerate(sorted_findings):
+        d_vec = info['d_vector']
+        D_total = np.sqrt(np.sum(d_vec**2))
+        rank = len(d_vec)
+        
+        # Check database
+        name = known_physics.get(fp, "??? (Not in Reference DB)")
+        status = "[KNOWN]" if name != "??? (Not in Reference DB)" else "[GENERATED]"
+        
+        print(f"Phase #{i+1}: {status} {name}")
+        print(f"  > Rank (N):     {rank}")
+        print(f"  > Dimensions:   {fp}")
+        print(f"  > Total Dim D:  {D_total:.4f}")
+        print(f"  > Found in:     {info['count']} files (e.g. {info['file_example']})")
+                
+        if "???" in name:
+            # 1. Check for Abelian Theories (All dimensions == 1.0)
+            if np.allclose(d_vec, 1.0):
+                print(f"  > AI Identification: Abelian Group Theory (Z_{rank} or similar)")
+
+            # 2. Check for Golden Ratio (Fibonacci Anyons) anywhere in the theory
+            elif np.any(np.isclose(d_vec, 1.6180339887, atol=1e-3)):
+                print("Identification: Non-Abelian (Contains Fibonacci Anyon)")
+            
+            elif safe_match(fp, [1.0, 1.0, 1.4142]):
+                print("Identification: Ising Model / Su(2)_2")
+            
+            elif safe_match(fp, [1.0, 1.0, 1.0, 1.0]):
+                print("Identification: Toric Code / Z2 x Z2")
+
+            elif safe_match(fp, [1.0, 1.0, 1.618, 1.618]):
+                print("Identification: Fibonacci Product State or G2_1")
+
+        print("-" * 40)
+
+if __name__ == "__main__":
+    main()

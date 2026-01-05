@@ -1,0 +1,863 @@
+Scanning 853 files for known physical phases...
+
+FILENAME                            | D_VEC                               | ID
+------------------------------------------------------------------------------------------
+Gen_R4_000.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_001.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_002.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_003.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_004.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_005.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_006.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_007.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_008.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_009.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_010.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_011.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_012.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_013.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_014.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_015.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_016.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_017.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_018.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_019.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_020.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_021.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_022.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_023.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_024.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_025.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_026.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_027.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_028.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_029.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_030.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_031.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_032.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_033.pt                       | [1.    0.    1.    1.618]           | Non-Abelian
+Gen_R4_034.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_035.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_036.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_037.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_038.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_039.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_040.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_041.pt                       | [1.    0.    1.    1.618]           | Non-Abelian
+Gen_R4_042.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_043.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_044.pt                       | [1.    0.    1.618 1.   ]           | Non-Abelian
+Gen_R4_045.pt                       | [1. 0. 2. 2.]                       | Non-Abelian
+Gen_R4_046.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_047.pt                       | [1. 0. 2. 2.]                       | Non-Abelian
+Gen_R4_048.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_049.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_050.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_051.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_052.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_053.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_054.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_055.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_056.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_057.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_058.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_059.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_060.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_061.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_062.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_063.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_064.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_065.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_066.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_067.pt                       | [1.    0.    1.    1.618]           | Non-Abelian
+Gen_R4_068.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_069.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_070.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_071.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_072.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_073.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_074.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_075.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_076.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_077.pt                       | [1.    0.    1.618 1.   ]           | Non-Abelian
+Gen_R4_078.pt                       | [1. 0. 2. 2.]                       | Non-Abelian
+Gen_R4_079.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_080.pt                       | [1.    0.    1.618 1.   ]           | Non-Abelian
+Gen_R4_081.pt                       | [1. 0. 2. 2.]                       | Non-Abelian
+Gen_R4_082.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_083.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_084.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_085.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_086.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_087.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_088.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_089.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_090.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_091.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_092.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_093.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_094.pt                       | [1.    0.    0.    1.618]           | Non-Abelian
+Gen_R4_095.pt                       | [1.    0.    0.    1.618]           | Non-Abelian
+Gen_R4_096.pt                       | [1.    0.    0.    1.618]           | Non-Abelian
+Gen_R4_097.pt                       | [1.    0.    0.    1.618]           | Non-Abelian
+Gen_R4_098.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_099.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_100.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_101.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_102.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_103.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_104.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_105.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_106.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_107.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_108.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_109.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_110.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_111.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_112.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_113.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_114.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_115.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_116.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_117.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_118.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_119.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_120.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_121.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_122.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_123.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_124.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_125.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_126.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_127.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_128.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_129.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_130.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_131.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_132.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_133.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_134.pt                       | [1.    0.    0.    1.618]           | Non-Abelian
+Gen_R4_135.pt                       | [1.    0.    0.    1.618]           | Non-Abelian
+Gen_R4_136.pt                       | [1.    0.    0.    1.618]           | Non-Abelian
+Gen_R4_137.pt                       | [1.    0.    0.    1.618]           | Non-Abelian
+Gen_R4_138.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_139.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_140.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_141.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_142.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_143.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_144.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_145.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_146.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_147.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_148.pt                       | [1.    0.    1.618 0.   ]           | Non-Abelian
+Gen_R4_149.pt                       | [1.    0.    1.618 0.   ]           | Non-Abelian
+Gen_R4_150.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_151.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_152.pt                       | [1.    0.    1.618 0.   ]           | Non-Abelian
+Gen_R4_153.pt                       | [1.    0.    1.618 0.   ]           | Non-Abelian
+Gen_R4_154.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_155.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_156.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_157.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_158.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_159.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_160.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_161.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_162.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_163.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_164.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_165.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_166.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_167.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_168.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_169.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_170.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_171.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_172.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_173.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_174.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_175.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_176.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_177.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_178.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_179.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_180.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_181.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_182.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_183.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_184.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_185.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_186.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_187.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_188.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_189.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_190.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_191.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_192.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_193.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_194.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_195.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_196.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_197.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_198.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_199.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_200.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_201.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_202.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_203.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_204.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_205.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_206.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_207.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_208.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_209.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_210.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_211.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_212.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_213.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_214.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_215.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_216.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_217.pt                       | [1.    0.    1.618 0.   ]           | Non-Abelian
+Gen_R4_218.pt                       | [1.    0.    1.618 0.   ]           | Non-Abelian
+Gen_R4_219.pt                       | [1.    0.    1.618 0.   ]           | Non-Abelian
+Gen_R4_220.pt                       | [1.    0.    1.618 0.   ]           | Non-Abelian
+Gen_R4_221.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_222.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_223.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_224.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_225.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_226.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_227.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_228.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_229.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_230.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_231.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_232.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_233.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_234.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_235.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_236.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_237.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_238.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_239.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_240.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_241.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_242.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_243.pt                       | [1.    1.    1.618 1.   ]           | Non-Abelian
+Gen_R4_244.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_245.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_246.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_247.pt                       | [1.    1.    1.414 1.   ]           | Non-Abelian
+Gen_R4_248.pt                       | [1. 1. 2. 1.]                       | Non-Abelian
+Gen_R4_249.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_250.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_251.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_252.pt                       | [1.    1.    1.732 1.   ]           | Non-Abelian
+Gen_R4_253.pt                       | [1.    1.    2.303 1.   ]           | Non-Abelian
+Gen_R4_254.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_255.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_256.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_257.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_258.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_259.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_260.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_261.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_262.pt                       | [1.    1.466 1.    2.148]           | Non-Abelian
+Gen_R4_263.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_264.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_265.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_266.pt                       | [1.    1.325 1.    1.755]           | Non-Abelian
+Gen_R4_267.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_268.pt                       | [1. 0. 1. 0.]                       | Unknown/Trivial
+Gen_R4_269.pt                       | [1.    1.325 2.325 1.755]           | Non-Abelian
+Gen_R4_270.pt                       | [1. 1. 2. 1.]                       | Non-Abelian
+Gen_R4_271.pt                       | [1. 1. 2. 1.]                       | Non-Abelian
+Gen_R4_272.pt                       | [1.    1.618 2.618 2.618]           | Non-Abelian
+Gen_R4_273.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_274.pt                       | [1.    1.38  2.63  1.905]           | Non-Abelian
+Gen_R4_275.pt                       | [1.    1.513 1.95  2.289]           | Non-Abelian
+Gen_R4_276.pt                       | [1.    1.466 2.148 2.148]           | Non-Abelian
+Gen_R4_277.pt                       | [1.    1.221 1.819 1.49 ]           | Non-Abelian
+Gen_R4_278.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_279.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_280.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_281.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_282.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_283.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_284.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_285.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_286.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_287.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_288.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_289.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_290.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_291.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_292.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_293.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_294.pt                       | [1.    1.325 1.755 2.325]           | Non-Abelian
+Gen_R4_295.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_296.pt                       | [1.    1.38  1.905 2.63 ]           | Non-Abelian
+Gen_R4_297.pt                       | [1.    1.221 1.49  1.819]           | Non-Abelian
+Gen_R4_298.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_299.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_300.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_301.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_302.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_303.pt                       | [1.    1.    1.    1.618]           | Non-Abelian
+Gen_R4_304.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_305.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_306.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_307.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_308.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_309.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_310.pt                       | [1.    1.466 2.148 1.   ]           | Non-Abelian
+Gen_R4_311.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_312.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_313.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_314.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_315.pt                       | [1.    1.    1.    1.414]           | Non-Abelian
+Gen_R4_316.pt                       | [1. 1. 1. 2.]                       | Non-Abelian
+Gen_R4_317.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_318.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_319.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_320.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_321.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_322.pt                       | [1. 1. 1. 2.]                       | Non-Abelian
+Gen_R4_323.pt                       | [1. 1. 1. 2.]                       | Non-Abelian
+Gen_R4_324.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_325.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_326.pt                       | [1.    1.325 1.755 1.   ]           | Non-Abelian
+Gen_R4_327.pt                       | [1.    1.618 2.618 2.618]           | Non-Abelian
+Gen_R4_328.pt                       | [1.    1.513 2.289 1.95 ]           | Non-Abelian
+Gen_R4_329.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_330.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_331.pt                       | [1.    1.    1.    1.732]           | Non-Abelian
+Gen_R4_332.pt                       | [1.    1.    1.    2.303]           | Non-Abelian
+Gen_R4_333.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_334.pt                       | [1.    1.466 2.148 2.148]           | Non-Abelian
+Gen_R4_335.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_336.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_337.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_338.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_339.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_340.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_341.pt                       | [1. 0. 0. 0.]                       | Unknown/Trivial
+Gen_R4_342.pt                       | [1.    1.618 1.    1.618]           | Non-Abelian
+Gen_R4_343.pt                       | [1.    1.618 1.    1.618]           | Non-Abelian
+Gen_R4_344.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_345.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_346.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_347.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_348.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_349.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_350.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_351.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_352.pt                       | [1.    1.618 1.618 1.   ]           | Non-Abelian
+Gen_R4_353.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_354.pt                       | [1.    1.618 1.618 1.   ]           | Non-Abelian
+Gen_R4_355.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_356.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_357.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_358.pt                       | [1.    1.618 1.    1.618]           | Non-Abelian
+Gen_R4_359.pt                       | [1.    1.414 1.    1.   ]           | Non-Abelian
+Gen_R4_360.pt                       | [1.    1.414 1.    1.   ]           | Non-Abelian
+Gen_R4_361.pt                       | [1.    1.802 1.    2.247]           | Non-Abelian
+Gen_R4_362.pt                       | [1.    1.618 1.    1.618]           | Non-Abelian
+Gen_R4_363.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_364.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_365.pt                       | [1.    1.618 1.618 1.   ]           | Non-Abelian
+Gen_R4_366.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_367.pt                       | [1.    2.206 2.206 2.659]           | Non-Abelian
+Gen_R4_368.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_369.pt                       | [1.    1.802 2.247 1.   ]           | Non-Abelian
+Gen_R4_370.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_371.pt                       | [1.    2.13  1.769 2.769]           | Non-Abelian
+Gen_R4_372.pt                       | [1.    1.618 1.618 1.   ]           | Non-Abelian
+Gen_R4_373.pt                       | [1.    1.95  1.513 2.289]           | Non-Abelian
+Gen_R4_374.pt                       | [1.    1.95  2.289 1.513]           | Non-Abelian
+Gen_R4_375.pt                       | [1.    2.206 2.659 2.206]           | Non-Abelian
+Gen_R4_376.pt                       | [1.    2.13  2.769 1.769]           | Non-Abelian
+Gen_R4_377.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_378.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_379.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_380.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_381.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_382.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_383.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_384.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_385.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_386.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_387.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_388.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_389.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_390.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_391.pt                       | [1.    0.    1.    1.618]           | Non-Abelian
+Gen_R4_392.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_393.pt                       | [1. 0. 1. 1.]                       | Unknown/Trivial
+Gen_R4_394.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_395.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_396.pt                       | [1.    0.    1.618 1.   ]           | Non-Abelian
+Gen_R4_397.pt                       | [1. 0. 2. 2.]                       | Non-Abelian
+Gen_R4_398.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_399.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_400.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_401.pt                       | [1.    1.    0.    1.618]           | Non-Abelian
+Gen_R4_402.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_403.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_404.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_405.pt                       | [1.    1.    0.    1.618]           | Non-Abelian
+Gen_R4_406.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_407.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_408.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_409.pt                       | [1.    1.    0.    1.618]           | Non-Abelian
+Gen_R4_410.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_411.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_412.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_413.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_414.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_415.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_416.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_417.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_418.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_419.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_420.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_421.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_422.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_423.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_424.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_425.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_426.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_427.pt                       | [1.    1.    1.618 1.618]           | Non-Abelian
+Gen_R4_428.pt                       | [1.    1.    1.618 1.618]           | Non-Abelian
+Gen_R4_429.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_430.pt                       | [1.    1.    1.618 1.618]           | Non-Abelian
+Gen_R4_431.pt                       | [1.    1.    1.618 1.618]           | Non-Abelian
+Gen_R4_432.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_433.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_434.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_435.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_436.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_437.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_438.pt                       | [1.    1.    1.618 0.   ]           | Non-Abelian
+Gen_R4_439.pt                       | [1.    1.    1.618 0.   ]           | Non-Abelian
+Gen_R4_440.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_441.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_442.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_443.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_444.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_445.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_446.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_447.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_448.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_449.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_450.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_451.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_452.pt                       | [1.    1.    1.466 2.148]           | Non-Abelian
+Gen_R4_453.pt                       | [1.    1.    1.325 1.755]           | Non-Abelian
+Gen_R4_454.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_455.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_456.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_457.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_458.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_459.pt                       | [1.    1.    1.    1.618]           | Non-Abelian
+Gen_R4_460.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_461.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_462.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_463.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_464.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_465.pt                       | [1.    1.    1.618 1.   ]           | Non-Abelian
+Gen_R4_466.pt                       | [1. 1. 2. 2.]                       | Non-Abelian
+Gen_R4_467.pt                       | [1.    1.    1.755 1.325]           | Non-Abelian
+Gen_R4_468.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_469.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_470.pt                       | [1.    1.    1.    1.414]           | Non-Abelian
+Gen_R4_471.pt                       | [1. 1. 1. 2.]                       | Non-Abelian
+Gen_R4_472.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_473.pt                       | [1.    1.    1.414 1.   ]           | Non-Abelian
+Gen_R4_474.pt                       | [1.    1.    1.802 2.247]           | Non-Abelian
+Gen_R4_475.pt                       | [1.    1.    1.618 1.618]           | Non-Abelian
+Gen_R4_476.pt                       | [1.    1.    1.618 1.618]           | Non-Abelian
+Gen_R4_477.pt                       | [1. 1. 2. 1.]                       | Non-Abelian
+Gen_R4_478.pt                       | [1.    1.    2.247 1.802]           | Non-Abelian
+Gen_R4_479.pt                       | [1.    1.    2.148 1.466]           | Non-Abelian
+Gen_R4_480.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_481.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_482.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_483.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_484.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_485.pt                       | [1.    1.    1.618 1.618]           | Non-Abelian
+Gen_R4_486.pt                       | [1.    1.    1.618 1.618]           | Non-Abelian
+Gen_R4_487.pt                       | [1.    1.    1.618 1.618]           | Non-Abelian
+Gen_R4_488.pt                       | [1.    1.    1.618 1.618]           | Non-Abelian
+Gen_R4_489.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_490.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_491.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_492.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_493.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_494.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_495.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_496.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_497.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_498.pt                       | [1.    1.    1.618 1.   ]           | Non-Abelian
+Gen_R4_499.pt                       | [1.    1.    1.618 1.   ]           | Non-Abelian
+Gen_R4_500.pt                       | [1.    1.    1.618 1.   ]           | Non-Abelian
+Gen_R4_501.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_502.pt                       | [1. 1. 1. 2.]                       | Non-Abelian
+Gen_R4_503.pt                       | [1. 1. 1. 2.]                       | Non-Abelian
+Gen_R4_504.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_505.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_506.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_507.pt                       | [1.    1.    1.618 0.   ]           | Non-Abelian
+Gen_R4_508.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_509.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_510.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_511.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_512.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_513.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_514.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_515.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_516.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_517.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_518.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_519.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_520.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_521.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_522.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_523.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_524.pt                       | [1.    1.    1.    1.618]           | Non-Abelian
+Gen_R4_525.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_526.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_527.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_528.pt                       | [1.    1.    1.    1.618]           | Non-Abelian
+Gen_R4_529.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_530.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_531.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_532.pt                       | [1.    1.    1.    1.618]           | Non-Abelian
+Gen_R4_533.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_534.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_535.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_536.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_537.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_538.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_539.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_540.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_541.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_542.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_543.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_544.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_545.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_546.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_547.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_548.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_549.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_550.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_551.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_552.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_553.pt                       | [1. 1. 2. 1.]                       | Non-Abelian
+Gen_R4_554.pt                       | [1. 1. 2. 1.]                       | Non-Abelian
+Gen_R4_555.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_556.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_557.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_558.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_559.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_560.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_561.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_562.pt                       | [1.    1.618 0.    1.   ]           | Non-Abelian
+Gen_R4_563.pt                       | [1.    1.618 0.    1.   ]           | Non-Abelian
+Gen_R4_564.pt                       | [1. 2. 0. 2.]                       | Non-Abelian
+Gen_R4_565.pt                       | [1. 2. 0. 2.]                       | Non-Abelian
+Gen_R4_566.pt                       | [1. 2. 0. 2.]                       | Non-Abelian
+Gen_R4_567.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_568.pt                       | [1. 2. 1. 2.]                       | Non-Abelian
+Gen_R4_569.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_570.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_571.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_572.pt                       | [1.    1.    1.618 0.   ]           | Non-Abelian
+Gen_R4_573.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_574.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_575.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_576.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_577.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_578.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_579.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_580.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_581.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_582.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_583.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_584.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_585.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_586.pt                       | [1.    1.618 1.618 1.   ]           | Non-Abelian
+Gen_R4_587.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_588.pt                       | [1.    2.206 2.206 2.659]           | Non-Abelian
+Gen_R4_589.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_590.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_591.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_592.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_593.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_594.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_595.pt                       | [1.    1.755 1.    1.325]           | Non-Abelian
+Gen_R4_596.pt                       | [1.    1.618 1.    1.   ]           | Non-Abelian
+Gen_R4_597.pt                       | [1.    1.618 1.    1.   ]           | Non-Abelian
+Gen_R4_598.pt                       | [1.    1.618 1.    1.   ]           | Non-Abelian
+Gen_R4_599.pt                       | [1. 2. 1. 2.]                       | Non-Abelian
+Gen_R4_600.pt                       | [1. 2. 1. 2.]                       | Non-Abelian
+Gen_R4_601.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_602.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_603.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_604.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_605.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_606.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_607.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_608.pt                       | [1.    1.618 1.618 1.   ]           | Non-Abelian
+Gen_R4_609.pt                       | [1.    1.618 1.618 1.   ]           | Non-Abelian
+Gen_R4_610.pt                       | [1.    1.618 1.618 1.   ]           | Non-Abelian
+Gen_R4_611.pt                       | [1.    1.618 1.618 1.   ]           | Non-Abelian
+Gen_R4_612.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_613.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_614.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_615.pt                       | [1.    1.755 2.325 1.325]           | Non-Abelian
+Gen_R4_616.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_617.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_618.pt                       | [1.    1.618 1.618 1.   ]           | Non-Abelian
+Gen_R4_619.pt                       | [1.    1.819 1.221 1.49 ]           | Non-Abelian
+Gen_R4_620.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_621.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_622.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_623.pt                       | [1. 0. 0. 1.]                       | Unknown/Trivial
+Gen_R4_624.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_625.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_626.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_627.pt                       | [1.    1.    0.    1.618]           | Non-Abelian
+Gen_R4_628.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_629.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_630.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_631.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_632.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_633.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_634.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_635.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_636.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_637.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_638.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_639.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_640.pt                       | [1.    1.618 1.    1.618]           | Non-Abelian
+Gen_R4_641.pt                       | [1.    1.755 1.325 2.325]           | Non-Abelian
+Gen_R4_642.pt                       | [1.    1.618 1.    1.618]           | Non-Abelian
+Gen_R4_643.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_644.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_645.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_646.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_647.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_648.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_649.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_650.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_651.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_652.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_653.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_654.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_655.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_656.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_657.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_658.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_659.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_660.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_661.pt                       | [1.    1.755 1.325 1.   ]           | Non-Abelian
+Gen_R4_662.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_663.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_664.pt                       | [1.    1.819 1.49  1.221]           | Non-Abelian
+Gen_R4_665.pt                       | [1.    1.618 1.    0.   ]           | Non-Abelian
+Gen_R4_666.pt                       | [1.    1.618 1.    0.   ]           | Non-Abelian
+Gen_R4_667.pt                       | [1.    1.618 1.    1.   ]           | Non-Abelian
+Gen_R4_668.pt                       | [1.    1.618 1.    1.   ]           | Non-Abelian
+Gen_R4_669.pt                       | [1.    1.618 1.    1.   ]           | Non-Abelian
+Gen_R4_670.pt                       | [1.    1.618 1.    1.618]           | Non-Abelian
+Gen_R4_671.pt                       | [1.    1.618 1.    1.618]           | Non-Abelian
+Gen_R4_672.pt                       | [1.    1.618 1.    1.618]           | Non-Abelian
+Gen_R4_673.pt                       | [1.    1.618 1.    1.618]           | Non-Abelian
+Gen_R4_674.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_675.pt                       | [1. 2. 2. 0.]                       | Non-Abelian
+Gen_R4_676.pt                       | [1. 2. 2. 0.]                       | Non-Abelian
+Gen_R4_677.pt                       | [1. 2. 2. 1.]                       | Non-Abelian
+Gen_R4_678.pt                       | [1. 2. 2. 1.]                       | Non-Abelian
+Gen_R4_679.pt                       | [1. 2. 2. 1.]                       | Non-Abelian
+Gen_R4_680.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_681.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_682.pt                       | [1. 2. 2. 2.]                       | Non-Abelian
+Gen_R4_683.pt                       | [1. 2. 2. 0.]                       | Non-Abelian
+Gen_R4_684.pt                       | [1.    2.206 2.659 2.206]           | Non-Abelian
+Gen_R4_685.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_686.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_687.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_688.pt                       | [1.    1.618 0.    1.   ]           | Non-Abelian
+Gen_R4_689.pt                       | [1. 2. 0. 2.]                       | Non-Abelian
+Gen_R4_690.pt                       | [1.    1.618 0.    1.   ]           | Non-Abelian
+Gen_R4_691.pt                       | [1. 2. 0. 2.]                       | Non-Abelian
+Gen_R4_692.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_693.pt                       | [1.    2.414 1.    2.414]           | Non-Abelian
+Gen_R4_694.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_695.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_696.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_697.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_698.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_699.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_700.pt                       | [1. 2. 1. 1.]                       | Non-Abelian
+Gen_R4_701.pt                       | [1. 2. 1. 1.]                       | Non-Abelian
+Gen_R4_702.pt                       | [1.    2.325 1.325 1.755]           | Non-Abelian
+Gen_R4_703.pt                       | [1.    2.618 1.618 2.618]           | Non-Abelian
+Gen_R4_704.pt                       | [1.    1.618 1.    0.   ]           | Non-Abelian
+Gen_R4_705.pt                       | [1. 2. 1. 1.]                       | Non-Abelian
+Gen_R4_706.pt                       | [1. 2. 1. 1.]                       | Non-Abelian
+Gen_R4_707.pt                       | [1.    2.247 1.    1.802]           | Non-Abelian
+Gen_R4_708.pt                       | [1.    2.148 1.    1.466]           | Non-Abelian
+Gen_R4_709.pt                       | [1.    1.618 1.    0.   ]           | Non-Abelian
+Gen_R4_710.pt                       | [1.    2.148 1.466 1.   ]           | Non-Abelian
+Gen_R4_711.pt                       | [1. 2. 2. 0.]                       | Non-Abelian
+Gen_R4_712.pt                       | [1.    2.325 1.755 1.325]           | Non-Abelian
+Gen_R4_713.pt                       | [1.    2.247 1.802 1.   ]           | Non-Abelian
+Gen_R4_714.pt                       | [1.    2.618 1.618 2.618]           | Non-Abelian
+Gen_R4_715.pt                       | [1. 2. 2. 0.]                       | Non-Abelian
+Gen_R4_716.pt                       | [1.    2.618 2.618 1.618]           | Non-Abelian
+Gen_R4_717.pt                       | [1.    2.618 2.618 1.618]           | Non-Abelian
+Gen_R4_718.pt                       | [1. 3. 3. 3.]                       | Non-Abelian
+Gen_R4_719.pt                       | [1.    2.659 2.206 2.206]           | Non-Abelian
+Gen_R4_720.pt                       | [1.    2.414 2.414 1.   ]           | Non-Abelian
+Gen_R4_721.pt                       | [1.    2.659 2.206 2.206]           | Non-Abelian
+Gen_R4_722.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_723.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_724.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_725.pt                       | [1. 1. 2. 2.]                       | Non-Abelian
+Gen_R4_726.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_727.pt                       | [1.    1.    1.618 1.618]           | Non-Abelian
+Gen_R4_728.pt                       | [1.    1.    1.618 1.618]           | Non-Abelian
+Gen_R4_729.pt                       | [1.    1.    2.414 2.414]           | Non-Abelian
+Gen_R4_730.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_731.pt                       | [1.    1.    1.618 1.618]           | Non-Abelian
+Gen_R4_732.pt                       | [1.    1.    1.618 1.618]           | Non-Abelian
+Gen_R4_733.pt                       | [1.    1.    2.414 2.414]           | Non-Abelian
+Gen_R4_734.pt                       | [1.    1.    1.414 1.414]           | Non-Abelian
+Gen_R4_735.pt                       | [1. 1. 2. 2.]                       | Non-Abelian
+Gen_R4_736.pt                       | [1. 1. 2. 2.]                       | Non-Abelian
+Gen_R4_737.pt                       | [1.    1.    2.732 2.732]           | Non-Abelian
+Gen_R4_738.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_739.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_740.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_741.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_742.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_743.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_744.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_745.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_746.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_747.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_748.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_749.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_750.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_751.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_752.pt                       | [1.    1.    1.    1.618]           | Non-Abelian
+Gen_R4_753.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_754.pt                       | [1. 1. 1. 1.]                       | Toric Code / Z4
+Gen_R4_755.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_756.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_757.pt                       | [1.    1.    1.618 1.   ]           | Non-Abelian
+Gen_R4_758.pt                       | [1. 1. 2. 2.]                       | Non-Abelian
+Gen_R4_759.pt                       | [1. 1. 2. 2.]                       | Non-Abelian
+Gen_R4_760.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_761.pt                       | [1.    1.618 1.    1.618]           | Non-Abelian
+Gen_R4_762.pt                       | [1.    1.618 1.    1.618]           | Non-Abelian
+Gen_R4_763.pt                       | [1.    1.905 1.38  2.63 ]           | Non-Abelian
+Gen_R4_764.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_765.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_766.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_767.pt                       | [1. 1. 1. 0.]                       | Unknown/Trivial
+Gen_R4_768.pt                       | [1.    1.879 2.879 2.532]           | Non-Abelian
+Gen_R4_769.pt                       | [1.    1.769 2.769 2.13 ]           | Non-Abelian
+Gen_R4_770.pt                       | [1.    1.49  1.819 1.221]           | Non-Abelian
+Gen_R4_771.pt                       | [1.    1.802 2.247 2.247]           | Non-Abelian
+Gen_R4_772.pt                       | [1.    1.802 2.247 2.247]           | Non-Abelian
+Gen_R4_773.pt                       | [1.    1.414 1.414 1.   ]           | Non-Abelian
+Gen_R4_774.pt                       | [1.    1.618 2.618 1.618]           | Non-Abelian
+Gen_R4_775.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_776.pt                       | [1.    1.49  1.221 1.819]           | Non-Abelian
+Gen_R4_777.pt                       | [1.    1.414 1.    1.414]           | Non-Abelian
+Gen_R4_778.pt                       | [1.    1.618 1.618 2.618]           | Non-Abelian
+Gen_R4_779.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_780.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_781.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_782.pt                       | [1. 1. 0. 1.]                       | Unknown/Trivial
+Gen_R4_783.pt                       | [1.    1.618 1.618 1.   ]           | Non-Abelian
+Gen_R4_784.pt                       | [1.    1.618 1.618 1.   ]           | Non-Abelian
+Gen_R4_785.pt                       | [1.    1.879 2.532 2.879]           | Non-Abelian
+Gen_R4_786.pt                       | [1.    1.802 2.247 2.247]           | Non-Abelian
+Gen_R4_787.pt                       | [1.    1.802 2.247 2.247]           | Non-Abelian
+Gen_R4_788.pt                       | [1.    1.769 2.13  2.769]           | Non-Abelian
+Gen_R4_789.pt                       | [1.    1.905 2.63  1.38 ]           | Non-Abelian
+Gen_R4_790.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_791.pt                       | [1. 2. 1. 2.]                       | Non-Abelian
+Gen_R4_792.pt                       | [1. 1. 0. 0.]                       | Unknown/Trivial
+Gen_R4_793.pt                       | [1.    2.247 1.802 2.247]           | Non-Abelian
+Gen_R4_794.pt                       | [1.    1.732 1.    1.   ]           | Non-Abelian
+Gen_R4_795.pt                       | [1. 2. 1. 2.]                       | Non-Abelian
+Gen_R4_796.pt                       | [1. 2. 2. 1.]                       | Non-Abelian
+Gen_R4_797.pt                       | [1.    2.247 1.802 2.247]           | Non-Abelian
+Gen_R4_798.pt                       | [1.    2.148 1.466 2.148]           | Non-Abelian
+Gen_R4_799.pt                       | [1.    2.247 2.247 1.802]           | Non-Abelian
+Gen_R4_800.pt                       | [1.    2.148 2.148 1.466]           | Non-Abelian
+Gen_R4_801.pt                       | [1.    2.414 2.414 2.414]           | Non-Abelian
+Gen_R4_802.pt                       | [1.    2.414 2.414 2.414]           | Non-Abelian
+Gen_R4_803.pt                       | [1.    2.148 1.466 2.148]           | Non-Abelian
+Gen_R4_804.pt                       | [1. 2. 2. 1.]                       | Non-Abelian
+Gen_R4_805.pt                       | [1.    2.247 2.247 1.802]           | Non-Abelian
+Gen_R4_806.pt                       | [1.    2.414 2.414 2.414]           | Non-Abelian
+Gen_R4_807.pt                       | [1.    2.148 2.148 1.466]           | Non-Abelian
+Gen_R4_808.pt                       | [1.    2.414 2.414 2.414]           | Non-Abelian
+Gen_R4_809.pt                       | [1.    2.414 2.414 2.414]           | Non-Abelian
+Gen_R4_810.pt                       | [1.    2.414 2.414 2.414]           | Non-Abelian
+Gen_R4_811.pt                       | [1.    2.414 2.414 2.414]           | Non-Abelian
+Gen_R4_812.pt                       | [1.    1.618 0.    0.   ]           | Non-Abelian
+Gen_R4_813.pt                       | [1.    1.618 1.    1.618]           | Non-Abelian
+Gen_R4_814.pt                       | [1.    1.618 1.    1.618]           | Non-Abelian
+Gen_R4_815.pt                       | [1.    1.618 1.618 2.618]           | Non-Abelian
+Gen_R4_816.pt                       | [1.    1.618 0.    0.   ]           | Non-Abelian
+Gen_R4_817.pt                       | [1.    1.618 1.618 1.   ]           | Non-Abelian
+Gen_R4_818.pt                       | [1.    1.618 1.618 1.   ]           | Non-Abelian
+Gen_R4_819.pt                       | [1.    1.618 2.618 1.618]           | Non-Abelian
+Gen_R4_820.pt                       | [1.    1.618 0.    0.   ]           | Non-Abelian
+Gen_R4_821.pt                       | [1.    2.414 1.    2.414]           | Non-Abelian
+Gen_R4_822.pt                       | [1.    1.618 0.    0.   ]           | Non-Abelian
+Gen_R4_823.pt                       | [1. 2. 1. 1.]                       | Non-Abelian
+Gen_R4_824.pt                       | [1.    2.532 1.879 2.879]           | Non-Abelian
+Gen_R4_825.pt                       | [1.    2.289 1.513 1.95 ]           | Non-Abelian
+Gen_R4_826.pt                       | [1. 2. 2. 1.]                       | Non-Abelian
+Gen_R4_827.pt                       | [1.    2.247 2.247 1.802]           | Non-Abelian
+Gen_R4_828.pt                       | [1.    2.414 2.414 2.414]           | Non-Abelian
+Gen_R4_829.pt                       | [1.    2.247 2.247 1.802]           | Non-Abelian
+Gen_R4_830.pt                       | [1.    1.618 0.    0.   ]           | Non-Abelian
+Gen_R4_831.pt                       | [1. 2. 1. 2.]                       | Non-Abelian
+Gen_R4_832.pt                       | [1.    1.618 0.    0.   ]           | Non-Abelian
+Gen_R4_833.pt                       | [1. 2. 1. 1.]                       | Non-Abelian
+Gen_R4_834.pt                       | [1.    2.247 1.802 2.247]           | Non-Abelian
+Gen_R4_835.pt                       | [1.    2.247 1.802 2.247]           | Non-Abelian
+Gen_R4_836.pt                       | [1.    2.414 2.414 1.   ]           | Non-Abelian
+Gen_R4_837.pt                       | [1.    2.532 2.879 1.879]           | Non-Abelian
+Gen_R4_838.pt                       | [1.    2.289 1.95  1.513]           | Non-Abelian
+Gen_R4_839.pt                       | [1.    2.414 2.414 2.414]           | Non-Abelian
+Gen_R4_840.pt                       | [1.    1.618 0.    0.   ]           | Non-Abelian
+Gen_R4_841.pt                       | [1.    2.732 1.    2.732]           | Non-Abelian
+Gen_R4_842.pt                       | [1.    1.618 0.    0.   ]           | Non-Abelian
+Gen_R4_843.pt                       | [1.    2.303 1.    1.   ]           | Non-Abelian
+Gen_R4_844.pt                       | [1.    2.618 1.618 1.618]           | Non-Abelian
+Gen_R4_845.pt                       | [1.    2.879 1.879 2.532]           | Non-Abelian
+Gen_R4_846.pt                       | [1.    2.769 1.769 2.13 ]           | Non-Abelian
+Gen_R4_847.pt                       | [1.    2.879 2.532 1.879]           | Non-Abelian
+Gen_R4_848.pt                       | [1.    2.618 1.618 1.618]           | Non-Abelian
+Gen_R4_849.pt                       | [1.    2.63  1.38  1.905]           | Non-Abelian
+Gen_R4_850.pt                       | [1.    2.63  1.905 1.38 ]           | Non-Abelian
+Gen_R4_851.pt                       | [1.    2.769 2.13  1.769]           | Non-Abelian
+Gen_R4_852.pt                       | [1.    2.732 2.732 1.   ]           | Non-Abelian
+------------------------------------------------------------------------------------------
+
+SUMMARY 
+Toric Code: 94 found
+Non-Abelian: 301 found
+Trivial/Broken: 458 found

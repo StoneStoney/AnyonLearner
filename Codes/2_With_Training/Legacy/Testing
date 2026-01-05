@@ -1,0 +1,71 @@
+import torch
+import torch.nn as nn
+import numpy as np
+
+# config
+RANK = 4  # Must match what you trained on
+MODEL_PATH = "anyon_brain.pth"
+
+# model match
+class AnyonNet(nn.Module):
+    def __init__(self, rank):
+        super().__init__()
+        self.net = nn.Sequential(
+            nn.Linear(rank**3, 128), nn.ReLU(),
+            nn.Linear(128, 64), nn.ReLU(),
+            nn.Linear(64, rank)
+        )
+    def forward(self, x): return self.net(x)
+
+# main
+def main():
+    print("test test")
+    model = AnyonNet(RANK)
+    try:
+        model.load_state_dict(torch.load(MODEL_PATH, weights_only=True))
+        model.eval() # Set to evaluation mode (turns off dropout/batchnorm)
+    except FileNotFoundError:
+        print("Cannot find model.")
+        return
+
+    print("Enter a Fusion Ring manually, or type 'R' for random.")
+
+    while True:
+        cmd = input("\n[R]andom or [Q]uit? > ").lower()
+        if cmd == 'q': break
+        
+        # 1. Generate a random "fake" Fusion Ring for testing
+        # can use a real known valid matrix here instead. I gave an example below
+        N_use = np.random.randint(0, 2, size=(RANK, RANK, RANK))
+        
+        N_use[0,:,:] = np.eye(RANK)
+        N_use[:,0,:] = np.eye(RANK)
+        
+        """
+        # Ising Model rules example:
+        N_use = np.zeros((3, 3, 3))
+
+        # 1 (Identity), s (Spin), p (Psi)
+        # Rules: s x s = 1 + p
+        N_use[1, 1, 0] = 1 # s x s -> 1
+        N_use[1, 1, 2] = 1 # s x s -> p
+        
+        # You can hardcode any of them!
+        """
+        
+        inputs = torch.tensor(N_use, dtype=torch.float32).flatten()
+        
+        with torch.no_grad():
+            prediction = model(inputs)
+        
+        M = np.sum(N_use, axis=0)
+        vals, _ = np.linalg.eig(M)
+        real_d = np.max(np.abs(vals)) # Approximation of dominant eigenvalue
+        
+        print(f"\nFusion Rules (Slice 1):\n{N_use[1]}")
+        print(f"AI Prediction for D_total: {torch.norm(prediction).item():.4f}")
+        print(f"Actual Math Value:         {np.sqrt(np.sum(real_d**2)):.4f} (Approx)")
+        print(f"Raw Vector: {np.round(prediction.numpy(), 2)}")
+
+if __name__ == "__main__":
+    main()
